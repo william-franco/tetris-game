@@ -1,6 +1,6 @@
 # Tetris Game
 
-Under construction.
+A full terminal Tetris clone with all seven tetrominoes, rotation, soft and hard drop, line clearing, scoring, and progressive difficulty. Rendered with ratatui on a classic 10×20 board.
 
 ## ScreenShots
 
